@@ -5,6 +5,12 @@ to launch run:
 * `manim -pqh 1D_Beam_Manim.py `
 * * `h` stands for high export quality
 
+## Example
+
+<video width="640" height="480" controls>
+  <source src="Examples/HiDeNN.mp4" type="video/mp4">
+</video>
+
 ## Folder structure:
 ``````
 .
