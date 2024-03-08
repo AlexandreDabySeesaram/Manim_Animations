@@ -35,8 +35,8 @@ https://github.com/AlexandreDabySeesaram/Manim_Animations/assets/94460698/89d077
 ``````
 ## Usefull tips
 
-Groups of object can be grouped using `VGroup(object1, object2)` and played with as a python list. Operations done on the VGroup is done on all its component
-    the method `.copy()` is very pratical also to add a new object as if it comes from the first one without deleting the first one:
+Objects can be grouped using `VGroup(object1, object2)` and played with as a python list. Operations done on the VGroup are done on all its component
+    the method `.copy()` is very handy also to add a new object as if it comes from the first one without deleting the first one:
 
 `
         Obect_1 = Circle(radius=0.5,color=BLUE_C)
